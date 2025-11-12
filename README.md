@@ -97,7 +97,7 @@ You’ll find:
 <img width="700" height="393" alt="image" src="https://github.com/user-attachments/assets/6af6a449-9cb3-4a18-b4f3-39d565b46c71" />
 
 - **Confusion Matrix Heatmap** for better interpretability.
-  <img width="548" height="455" alt="image" src="https://github.com/user-attachments/assets/9bcce7cf-4d70-4b4e-a07f-56c38053258b" />
+<img width="548" height="455" alt="image" src="https://github.com/user-attachments/assets/9bcce7cf-4d70-4b4e-a07f-56c38053258b" />
 
 
 ---
