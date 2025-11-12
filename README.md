@@ -114,7 +114,7 @@ cd <repo-name>
 2. Open the notebook:
 
 ```bash
-jupyter notebook 1c2cec70-e6f0-4ed2-a74d-c0fd62131510.ipynb
+jupyter notebook Fake News Detection using LSTM.ipynb
 ```
 
 3. Run all cells sequentially to:
